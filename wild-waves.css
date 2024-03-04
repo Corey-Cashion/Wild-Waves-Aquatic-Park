@@ -13,7 +13,6 @@ body {
   }
   
   button {
-    border: none;
     padding: 10px 20px;
     background-color: #2e609c; /* Dark blue */
     color: white;
