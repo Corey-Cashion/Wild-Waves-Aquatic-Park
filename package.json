@@ -1,0 +1,16 @@
+{
+  "name": "wild-waves-aquatic-park",
+  "version": "1.0.0",
+  "description": "// Simple JS Exercise to demonstrate learning and understanding of basic language skills and functionality <br> // Input firebase url here",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel --open",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "Corey Cashion",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
